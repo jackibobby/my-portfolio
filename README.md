@@ -22,3 +22,4 @@ npm run build && npm start   # production
 
 ## Deploy
 Push to GitHub and import into Vercel (add the env vars there if you use the API).
+# my-portfolio
